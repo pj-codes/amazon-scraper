@@ -10,7 +10,7 @@ Make sure to download correct chromedriver - https://chromedriver.chromium.org/d
 
 ## To run the script on linux:
 1. Open the terminal.	
-2. Just navigate to the SoStronk folder.
+2. Just navigate to the amazon-scraper folder.
 3. Type "python3 simple_tracker.py" without quotes to run the code.
 
 
